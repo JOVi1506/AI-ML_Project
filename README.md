@@ -60,4 +60,4 @@ This project demonstrates how machine learning models can accurately predict air
 2. Load the dataset and preprocess as outlined in the project.
 3. Train and evaluate the models using the provided Jupyter Notebook.
 
-## For more detailed information, refer to the [Project Report File](x.com)
+## For more detailed information, refer to the [Project Report File]([x.com](https://github.com/JOVi1506/AI-ML_Project/blob/main/Project%20Report.pdf))
