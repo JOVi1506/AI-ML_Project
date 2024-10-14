@@ -1,6 +1,6 @@
 # Airline Passenger Satisfaction Prediction using Machine Learning
 
-This project focuses on building machine learning models to predict whether an airline passenger is satisfied or dissatisfied based on survey responses. By leveraging several machine learning techniques, we aim to classify passenger satisfaction with high accuracy.
+This project focuses on training AI models using multiple different Machine Learning Algorithms to predict airline passenger satisfaction based on survey responses, collected to form a dataset. By leveraging several machine learning algorithms, the aim is to classify passenger satisfaction with high accuracy.
 
 ## Dataset Description:
 
